@@ -1,0 +1,26 @@
+{
+  "name": "hub",
+  "description": "Hub",
+  "author": "hub",
+  "version": "0.1.5",
+  "main": "starthub.js",
+  "keywords": [
+    "hub",
+    "messaging",
+    "chat"
+  ],
+  "scripts": {
+    "start": "node starthub.js"
+  },
+  "license": "MIT",
+  "browser": {
+    "request": "browser-request",
+    "secp256k1": "secp256k1/js"
+  },
+  "dependencies": {
+    "apn": "^2.2.0",
+    "relay": "git+https://github.com/dragonbtm/relay.git",
+    "request": "^2.81.0",
+    "json-rpc2": "^1.0.2"
+  }
+}
