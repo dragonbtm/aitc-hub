@@ -9,11 +9,13 @@ exports.permanent_pairing_secret = '0000';
 exports.WS_PROTOCOL = 'ws://';
 exports.KEYS_FILENAME = 'keys.json';
 
+// exports.minClientVersion = '0.1.5';
+
 exports.bLight = false;
 exports.bServeAsHub = true;
 
-exports.port = 8287;
-exports.rpcPort = '10062';
+exports.port = 8286;
+exports.rpcPort = '10061';
 
 // exports.minClientVersion = '0.1.5';
 
