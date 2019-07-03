@@ -2,7 +2,7 @@
   "name": "hub",
   "description": "Hub",
   "author": "hub",
-  "version": "0.1.5",
+  "version": "1.5.1",
   "main": "starthub.js",
   "keywords": [
     "hub",

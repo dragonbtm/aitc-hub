@@ -12,9 +12,10 @@ exports.KEYS_FILENAME = 'keys.json';
 exports.bLight = false;
 exports.bServeAsHub = true;
 
-exports.port = 8286;
-exports.rpcPort = '10061';
+exports.port = 8287;
+exports.rpcPort = '10062';
 
+// exports.minClientVersion = '0.1.5';
 
 exports.initial_witnesses = [
     'WXNM4L4OTGIKSQHMMMBE6TUW6YJ4SHGY',
@@ -37,10 +38,10 @@ exports.initial_witnesses = [
 
 
 exports.initial_peers = [
-    'ws://172.31.34.124:8286',
-    'ws://172.31.34.120:8286',
-    'ws://172.31.34.125:8286',
-    'ws://172.31.34.118:8286'
+    // 'ws://172.31.34.124:8286',
+    // 'ws://172.31.34.120:8286',
+    'ws://127.0.0.1:8286'
+    // 'ws://172.31.34.118:8286'
 ];
 
 exports.trustedRegistries = {
