@@ -20,10 +20,10 @@ exports.rpcPort = '10061';
 // exports.minClientVersion = '0.1.5';
 
 exports.initial_witnesses = [
-    'WXNM4L4OTGIKSQHMMMBE6TUW6YJ4SHGY',
-    'J4LFUWCFCXLWNNCLGMVGQKXUOUULNPDW',
-    'DLVXBKXVNSOLGSXVAJBUYQUG5OEGWTV5',
-    'JNR2E5BPXI576ZEVR5S5HVTYC6EZNDPW'
+    "QO62LQRICJLZLI3HS2PXS6N4BEK4RDPY",
+    "LJMBYQKXSOLPLLMD4JIMMNODBEMWWUGN",
+    "LJMBYQKXSOLPLLMD4JIMMNODBEMWWUGN",
+    "IBBRYL5V5PUKJO7IH7HH4VRK5GJ5XYGQ"
 ];
 
 
@@ -38,10 +38,10 @@ exports.initial_witnesses = [
 
 
 exports.initial_peers = [
-    'ws://172.31.34.124:8286',
-    'ws://172.31.34.120:8286',
-    'ws://172.31.34.125:8286',
-    'ws://172.31.34.118:8286'
+    'ws://47.244.154.153:8286',
+    'ws://47.244.143.123:8286',
+    'ws://47.244.154.66:8286',
+    'ws://47.75.210.123:8286'
 ];
 
 exports.trustedRegistries = {
