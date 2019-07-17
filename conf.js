@@ -39,9 +39,9 @@ exports.initial_witnesses = [
 
 exports.initial_peers = [
     'ws://47.244.154.153:8286',
-    'ws://47.244.143.123:8286',
+    'ws://47.244.155.250:8286',
     'ws://47.244.154.66:8286',
-    'ws://47.75.210.123:8286'
+    'ws://47.244.144.85:8286'
 ];
 
 exports.trustedRegistries = {
